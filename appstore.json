@@ -5,7 +5,7 @@
             "Id": "com.tizu.soundio",
             "Name": "SoundIO",
             "Version": "1.0.0",
-            "Icon": "",
+            "Icon": "https://github.com/tizuWare/SoundIO/raw/main/soundio.png",
             "Description": "SoundIO is a free, open-source virtual audio mixing tool that can be controlled quickly by using a keyboard shrtcut and entering a command.",
             "RepoUrl": "",
             "BugtrackerUrl": "",
