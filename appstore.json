@@ -1,1 +1,104 @@
-
+{
+    "LatestAppstoreVer": "1.0.0",
+    "Apps": [
+        {
+            "Id": "com.tizu.soundio",
+            "Name": "SoundIO",
+            "Version": "1.0.0",
+            "Icon": "",
+            "Description": "SoundIO is a free, open-source virtual audio mixing tool that can be controlled quickly by using a keyboard shrtcut and entering a command.",
+            "RepoUrl": "",
+            "BugtrackerUrl": "",
+            "Download": [
+                {
+                    "Lang": "English",
+                    "Code": "en-us",
+                    "Url": ""
+                }
+            ],
+            "Changelog": [
+                {
+                    "Version": "1.0.0",
+                    "Text": "Initial release"
+                }
+            ],
+            "InstallerArgs": {
+                "CommandLine": "",
+                "RequireElevation": false,
+                "DefaultPath": "",
+                "ProvideLanguageCode": false
+            },
+            "InstallerMB": 0.0,
+            "ApplicationMB": 0.0,
+            "AllowDownload": false,
+            "Developer": "Tizu69",
+            "DeveloperUrl": "https://github.com/tizu69/"
+        },
+        {
+            "Id": "com.tizu.writer",
+            "Name": "Magical Writer",
+            "Version": "1.0.0",
+            "Icon": "",
+            "Description": "Magical Writer lets you globally write with a smartphone-like suggestion bar and autocorrect. It is AI-driven and supports profiles for different languages.",
+            "RepoUrl": "",
+            "BugtrackerUrl": "",
+            "Download": [
+                {
+                    "Lang": "English",
+                    "Code": "en-us",
+                    "Url": ""
+                }
+            ],
+            "Changelog": [
+                {
+                    "Version": "1.0.0",
+                    "Text": "Initial release"
+                }
+            ],
+            "InstallerArgs": {
+                "CommandLine": "",
+                "RequireElevation": false,
+                "DefaultPath": "",
+                "ProvideLanguageCode": false
+            },
+            "InstallerMB": 0.0,
+            "ApplicationMB": 0.0,
+            "AllowDownload": false,
+            "Developer": "Tizu69",
+            "DeveloperUrl": "https://github.com/tizu69/"
+        },
+        {
+            "Id": "com.tizu.nomoreoverflow",
+            "Name": "NoMoreOverflow",
+            "Version": "1.0.0",
+            "Icon": "",
+            "Description": "Extension for common IDEs that works like GitHub Copilot, but uses Google in the background to search for Stack Overflow answers and returns AI-modified code to match your goals and variables.",
+            "RepoUrl": "",
+            "BugtrackerUrl": "",
+            "Download": [
+                {
+                    "Lang": "English",
+                    "Code": "en-us",
+                    "Url": ""
+                }
+            ],
+            "Changelog": [
+                {
+                    "Version": "1.0.0",
+                    "Text": "Initial release"
+                }
+            ],
+            "InstallerArgs": {
+                "CommandLine": "",
+                "RequireElevation": false,
+                "DefaultPath": "",
+                "ProvideLanguageCode": false
+            },
+            "InstallerMB": 0.0,
+            "ApplicationMB": 0.0,
+            "AllowDownload": false,
+            "Developer": "Tizu69",
+            "DeveloperUrl": "https://github.com/tizu69/"
+        }
+    ]
+}
