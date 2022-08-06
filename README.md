@@ -41,23 +41,7 @@
 │ basics, great. WinForms just  │
 │ does not allow that level of  │
 │ detail and customization      │
-│ that WPF has. With my newest  │
-│ project, named "tizuWare", I  │
-│ try to create a complete      │
-│ application ecosystem that    │
-│ intends on targeting          │
-│ everyone. While there are     │
-│ currently no real apps that   │
-│ you can download and use,     │
-│ my goal is to release new     │
-│ apps that target different    │
-│ topics. I plan to complete    │
-│ the tAppStore by January 2023 │
-│ and then release apps as fast │
-│ as possible while still       │
-│ keeping quality over          │
-│ quantity. Let's see what the  │
-│ future brings with it.        │
+│ that WPF has.                 │
 └───────────────────────────────┘
 
 If only you could resize these "windows"... My problem, alright?
