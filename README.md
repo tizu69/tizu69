@@ -1,13 +1,13 @@
 ```
 ┌───────────────────────────┬───┐
-│About me                   │ X │
+│ About me                  │ X │
 ├───────────────────────────┴───┤
-│Hi! I'm @tizu69. I develop     │
-│apps for Windows in C#. I      │
-│recently started liking TUIs   │
-│(text-based user interface)    │
-│and now actually prefer them   │
-│over normal GUIs.              │
+│ Hi! I'm @tizu69. I develop    │
+│ nothing (mostly) in Java. I   │
+│ recently started liking TUIs  │
+│ (text-based user interface)   │
+│ and now actually prefer them  │
+│ over normal GUIs.             │
 └───────────────────────────────┘
 
 ┌───────────────────────────┬───┐
@@ -41,7 +41,8 @@
 │ basics, great. WinForms just  │
 │ does not allow that level of  │
 │ detail and customization      │
-│ that WPF has.                 │
+│ that WPF has. Now I switched  │
+│ to Java.                      │
 └───────────────────────────────┘
 
 If only you could resize these "windows"... My problem, alright?
