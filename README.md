@@ -1,9 +1,6 @@
 ## Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=tizu69&theme=catppuccin_mocha)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tizu69&theme=catppuccin_mocha)
-
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=018cb2e5-82fb-471e-9adc-5d89039a871a&layout=compact&theme=catppuccin_mocha)
 
 ## stack frfr
