@@ -1,4 +1,4 @@
 Add a `|` to vote.
 
-- >70 crinj:
-- <90 crinj: | 
+- \> 70 crinj:
+- < 90 crinj: | 
